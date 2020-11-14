@@ -1,0 +1,7 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev\holamundo\bin\Debug\holamundo.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev\holamundo\bin\Debug\holamundo.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev\holamundo\bin\Debug\holamundo.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev\holamundo\obj\Debug\holamundo.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev\holamundo\obj\Debug\holamundo.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev\holamundo\obj\Debug\holamundo.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev\holamundo\obj\Debug\holamundo.pdb
