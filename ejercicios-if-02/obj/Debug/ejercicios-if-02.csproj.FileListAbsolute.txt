@@ -1,0 +1,7 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\ejercicios-if-02\bin\Debug\ejercicios-if-02.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\ejercicios-if-02\bin\Debug\ejercicios-if-02.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\ejercicios-if-02\bin\Debug\ejercicios-if-02.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\ejercicios-if-02\obj\Debug\ejercicios-if-02.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\ejercicios-if-02\obj\Debug\ejercicios-if-02.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\ejercicios-if-02\obj\Debug\ejercicios-if-02.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\ejercicios-if-02\obj\Debug\ejercicios-if-02.pdb
