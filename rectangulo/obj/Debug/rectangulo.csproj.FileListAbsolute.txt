@@ -1,0 +1,7 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\rectangulo\bin\Debug\rectangulo.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\rectangulo\bin\Debug\rectangulo.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\rectangulo\bin\Debug\rectangulo.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\rectangulo\obj\Debug\rectangulo.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\rectangulo\obj\Debug\rectangulo.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\rectangulo\obj\Debug\rectangulo.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\rectangulo\obj\Debug\rectangulo.pdb
