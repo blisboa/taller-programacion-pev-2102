@@ -1,0 +1,7 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\buscar.menor-elemento\bin\Debug\buscar.menor-elemento.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\buscar.menor-elemento\bin\Debug\buscar.menor-elemento.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\buscar.menor-elemento\bin\Debug\buscar.menor-elemento.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\buscar.menor-elemento\obj\Debug\buscar.menor-elemento.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\buscar.menor-elemento\obj\Debug\buscar.menor-elemento.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\buscar.menor-elemento\obj\Debug\buscar.menor-elemento.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\buscar.menor-elemento\obj\Debug\buscar.menor-elemento.pdb
