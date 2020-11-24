@@ -1,0 +1,7 @@
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\bin\Debug\arreglo3.exe.config
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\bin\Debug\arreglo3.exe
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\bin\Debug\arreglo3.pdb
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\invertirArregloGMoya.csprojAssemblyReference.cache
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\invertirArregloGMoya.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\arreglo3.exe
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\arreglo3.pdb

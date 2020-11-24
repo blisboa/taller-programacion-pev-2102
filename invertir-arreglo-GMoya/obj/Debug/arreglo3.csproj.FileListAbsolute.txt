@@ -1,0 +1,14 @@
+C:\Users\Gonzalo.Moya\source\repos\arreglo3\bin\Debug\arreglo3.exe.config
+C:\Users\Gonzalo.Moya\source\repos\arreglo3\bin\Debug\arreglo3.exe
+C:\Users\Gonzalo.Moya\source\repos\arreglo3\bin\Debug\arreglo3.pdb
+C:\Users\Gonzalo.Moya\source\repos\arreglo3\obj\Debug\arreglo3.csprojAssemblyReference.cache
+C:\Users\Gonzalo.Moya\source\repos\arreglo3\obj\Debug\arreglo3.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo.Moya\source\repos\arreglo3\obj\Debug\arreglo3.exe
+C:\Users\Gonzalo.Moya\source\repos\arreglo3\obj\Debug\arreglo3.pdb
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\bin\Debug\arreglo3.exe.config
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\bin\Debug\arreglo3.exe
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\bin\Debug\arreglo3.pdb
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\arreglo3.csprojAssemblyReference.cache
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\arreglo3.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\arreglo3.exe
+C:\Users\bernardo.lisboa\Downloads\arreglo3\arreglo3\obj\Debug\arreglo3.pdb
