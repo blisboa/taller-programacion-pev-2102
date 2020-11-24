@@ -1,0 +1,7 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductor\bin\Debug\traductor.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductor\bin\Debug\traductor.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductor\bin\Debug\traductor.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductor\obj\Debug\traductor.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductor\obj\Debug\traductor.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductor\obj\Debug\traductor.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductor\obj\Debug\traductor.pdb
