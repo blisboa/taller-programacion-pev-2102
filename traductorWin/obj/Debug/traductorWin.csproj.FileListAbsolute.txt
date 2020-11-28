@@ -1,0 +1,10 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\bin\Debug\traductorWin.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\bin\Debug\traductorWin.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\bin\Debug\traductorWin.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\obj\Debug\traductorWin.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\obj\Debug\traductorWin.Properties.Resources.resources
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\obj\Debug\traductorWin.csproj.GenerateResource.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\obj\Debug\traductorWin.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\obj\Debug\traductorWin.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\obj\Debug\traductorWin.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\traductorWin\obj\Debug\traductorWin.frmTraductor.resources
