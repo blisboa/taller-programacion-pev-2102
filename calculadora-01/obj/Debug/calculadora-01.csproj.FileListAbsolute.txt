@@ -1,0 +1,14 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\ejecutable\calculadora-01.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\ejecutable\calculadora-01.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\ejecutable\calculadora-01.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora_01.Form1.resources
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora_01.Properties.Resources.resources
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora-01.csproj.GenerateResource.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora-01.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora-01.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora-01.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\bin\Debug\calculadora-01.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\bin\Debug\calculadora-01.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\bin\Debug\calculadora-01.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora-01.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\calculadora-01\obj\Debug\calculadora_01.frmCalculadora.resources

@@ -35,6 +35,10 @@ namespace traductorWin
             dic_espanol[9] = "domingo";
             dic_espanol[10] = "hoy";
             dic_espanol[11] = "es";
+            dic_espanol[12] = "la";
+            dic_espanol[13] = "roja";
+            dic_espanol[14] = "casa";
+
 
             dic_ingles[0] = "hello";
             dic_ingles[1] = "world";
@@ -48,6 +52,9 @@ namespace traductorWin
             dic_ingles[9] = "sunday";
             dic_ingles[10] = "today";
             dic_ingles[11] = "is";
+            dic_ingles[12] = "the";
+            dic_ingles[13] = "red";
+            dic_ingles[14] = "house";
 
 
         }

@@ -1,0 +1,10 @@
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\bin\Debug\login-base-de-datos.exe.config
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\bin\Debug\login-base-de-datos.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\bin\Debug\login-base-de-datos.pdb
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\obj\Debug\login-base-de-datos.csprojAssemblyReference.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\obj\Debug\login_base_de_datos.frmLogin.resources
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\obj\Debug\login_base_de_datos.Properties.Resources.resources
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\obj\Debug\login-base-de-datos.csproj.GenerateResource.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\obj\Debug\login-base-de-datos.csproj.CoreCompileInputs.cache
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\obj\Debug\login-base-de-datos.exe
+D:\blf\educacion\aiep\alumnos\2020\taller-poo - pev\github\taller-programacion-pev-2102\login-base-de-datos\obj\Debug\login-base-de-datos.pdb
